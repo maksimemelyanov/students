@@ -51,7 +51,7 @@
      -
    * - 4
      - Емельянов Максим Игоревич
-     -
+     - maksimemelyanov_
      -
      -
      -
@@ -209,6 +209,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
+.. maksimemelyanov_: https://github.com/maksimemelyanov
 
 
 .. Домашняя работа #1
