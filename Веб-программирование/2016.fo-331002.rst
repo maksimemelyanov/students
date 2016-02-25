@@ -209,7 +209,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
-.. maksimemelyanov_: https://github.com/maksimemelyanov
+.. _maksimemelyanov: https://github.com/maksimemelyanov
 
 
 .. Домашняя работа #1
